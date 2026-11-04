@@ -1,0 +1,17 @@
+# Install a PyTorch/torchvision pair compatible with your Python and CUDA runtime:
+# https://pytorch.org/get-started/locally/
+torch
+torchvision
+
+numpy
+opencv-python
+Pillow
+matplotlib
+tqdm
+pycocotools
+pandas
+scikit-learn
+kaggle
+
+# Required only for the optional YOLO11-seg experiment:
+ultralytics
